@@ -1,5 +1,7 @@
 # Internship-Project
 This project involves segmenting customers based on their demographic and behavioral data using the K-Means clustering algorithm. As the owner of a supermarket, the goal is to understand the different groups of customers to tailor marketing strategies and improve customer satisfaction.
+to watch it live [Click here](https://colab.research.google.com/drive/1Qc-kOUUWrKAYSbwK9jwycaHNB2oZKgrc#scrollTo=mj_LZsKJuFMF)
+
 
 # Dataset Description
 The dataset used for this project contains hypothetical customer data with the following features:
