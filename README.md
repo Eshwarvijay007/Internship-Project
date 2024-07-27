@@ -28,11 +28,7 @@ Visualize the clusters to interpret the results.
 
 Analyze the characteristics of each customer segment.
 Provide insights and recommendations for each segment based on their demographics and spending behavior.
-Requirements
-Python 3.x
-Libraries:
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+
+
+# Conclusion
+By segmenting customers based on their demographic and spending behavior, businesses can better understand their customer base and implement more effective marketing strategies. This project demonstrates how K-Means clustering can be used for customer segmentation in a retail setting.
